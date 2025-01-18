@@ -1,2 +1,2 @@
 wait("0.2")
-loadstring(game:HttpGet("
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SpearCodes/Spears-RB/refs/heads/main/SpearsRBscript?token=GHSAT0AAAAAAC5QMVWYKAMZL7ETJ7G4OCQMZ4LF7CA", true))()
